@@ -4,4 +4,4 @@ Utilities for basic velocity modelling using regional well tops.
 
 Useful for background trend identification.
 
-Uses well tops exported from Petrel in csv format
+Uses well tops exported from Petrel in csv format.
